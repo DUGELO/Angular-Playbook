@@ -60,12 +60,12 @@ Esses materiais foram produzidos com **Google LLM**, utilizando os manuais como 
 ## 🗂️ Estrutura do Repositório
 
 ### As pastas seguem o padrão:
-1- Manual Definitivo de Reatividade Angular
-2- Manual de Signals e Reatividade Granular
-3- Manual Definitivo de Arquitetura Front-End
-4- Manual Definitivo de BFF para Desenvolvedores
-5- Manual Definitivo de Microfrontends Enterprise
-6- Manual Angular - Performance e Otimização
+- 1- Manual Definitivo de Reatividade Angular\
+- 2- Manual de Signals e Reatividade Granular\
+- 3- Manual Definitivo de Arquitetura Front-End\
+- 4- Manual Definitivo de BFF para Desenvolvedores\
+- 5- Manual Definitivo de Microfrontends Enterprise\
+- 6- Manual Angular - Performance e Otimização\
 
 
 Cada pasta contém:
